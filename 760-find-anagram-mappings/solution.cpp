@@ -1,3 +1,4 @@
+//https://leetcode.com/problems/find-anagram-mappings/
 class Solution {
 public:
     vector<int> anagramMappings(vector<int>& A, vector<int>& B) {

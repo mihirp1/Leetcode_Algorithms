@@ -1,4 +1,5 @@
 //https://leetcode.com/problems/subsets-ii/
+//https://leetcode.com/problems/subsets/discuss/27281/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partitioning)
 class Solution {
 public:
     vector<vector<int>> subsetsWithDup(vector<int>& nums) {
